@@ -1,0 +1,15 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "firebase": "^5.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "",
+  "license": "ISC"
+}
